@@ -1,0 +1,46 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-brand {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.navbar-brand {
+  font-weight: 900;
+}
+
+p,
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar-nav,
+.navbar {
+  float: none;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+
+.dish-card {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.card-img-top {
+  object-fit: cover;
+  min-width: 100%;
+  max-height: 200px;
+}
+
+.card-title {
+  font-weight: 900;
+}
