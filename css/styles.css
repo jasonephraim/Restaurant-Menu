@@ -37,6 +37,16 @@ li {
   float: none;
 }
 
+#hero {
+  max-height: 200px;
+  overflow: hidden;
+  align-content: center;
+}
+
+#hero-image {
+  width: 100%;
+}
+
 .dish-card {
   padding-right: 0px;
   padding-left: 0px;
